@@ -1,3 +1,12 @@
+# This wiki has been deprecated
+
+We have moved to a new, GitHub-pages-based wiki. It builds off of this original wiki but is far easier to navigate and contribute to.
+
+You can find the new repository here: https://github.com/LethalCompany/ModdingWiki
+
+You can find the new website here: https://lethal.wiki/
+
+
 # LethalCompanyModdingWiki
 A repository that acts as a [wiki](https://github.com/LethalCompany/LethalCompanyModdingWiki/wiki) for modding, with example projects and code snippets.
 
